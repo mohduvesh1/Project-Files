@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Uvesh
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on Frontend/Backend Projects
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning javaScript.
+- 💞️ I’m looking to collaborate on Frontend/Backend Projects.
 - 📫 You can reach me at uveshqureshi208@gmail.com
 
 <!---
